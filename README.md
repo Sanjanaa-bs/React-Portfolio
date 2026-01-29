@@ -87,6 +87,4 @@ npm run build
 ```
 This creates a `build` directory with optimized static assets.
 
-## Acknowledgements
-*   Original template by [Saad Pasta](https://github.com/saadpasta).
-*   Illustrations by [Undraw](https://undraw.co/).
+
